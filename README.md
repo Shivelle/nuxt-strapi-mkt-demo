@@ -1,4 +1,4 @@
-### Strapi & Nuxt MKT Page Demo 
+# Strapi & Nuxt MKT Page Demo 
 
 
 
