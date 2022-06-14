@@ -26,5 +26,5 @@ yarn develop
 
 ## 📚 Learn more
 
-- [nuxt 3 documentation](https://v3.nuxtjs.org) - Nuxt documentation
+- [Nuxt 3 documentation](https://v3.nuxtjs.org) - Nuxt documentation
 - [Strapi documentation](https://docs.strapi.io) - Strapi documentation.
